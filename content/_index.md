@@ -2,7 +2,6 @@
 title: "Home"
 ---
 
-
 ## Omango
 
 OmanGo is a group for people who know, use, or are just interested in starting to program in Go, the programming language designed and built at Google.
@@ -11,10 +10,9 @@ All abilities are welcome at OmanGo from just interested to advanced. For more i
 
 ### Upcoming meetups
 
-* [04 December 2019 - Introduction to Git & GitHub](/meetups/2019/12)
-* ~~01 January 2020 - No Meetup~~
-* 05 February 2019 - TBA
-<!-- Get notified about upcoming meetups and events by joining our [mailing list](/community) or following our [Twitter account](/community). -->
+- [08 January 2020 - Databases with Go](/meetups/2020/01)
+- 05 February 2020 - TBA
+  <!-- Get notified about upcoming meetups and events by joining our [mailing list](/community) or following our [Twitter account](/community). -->
 
 ### What is Go?
 
