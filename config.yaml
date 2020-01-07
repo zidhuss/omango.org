@@ -3,9 +3,7 @@ languageCode: en-gb
 defaultContentLanguage: en
 title: Omango
 theme: cupper-hugo-theme
-# googleAnalytics: UA-123456789-1
-# disqusShortname: yourdiscussshortname
-# enableGitInfo: true
+enableGitInfo: true
 
 taxonomies:
   tag: tags
@@ -17,13 +15,8 @@ imaging:
   quality: 99
 
 params:
-  # description: OmanGo is a group for people who know, use, or are just interested in starting to program in Go, the programming language designed and built at Google.
-  # homeMetaContent: OmanGo is a group for people who know, use, or are just interested in starting to program in Go, the programming language designed and built at Google.
   footer: Created by [Hussein Al Abry](https://zidhuss.tech). Powered by [Hugo](https://gohugo.io/).
-  # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
-  # codePenUser: someUser
-  # katex: true
 
 menu:
   nav:
@@ -36,9 +29,3 @@ menu:
     - name: Meetups
       url: /meetups/
       weight: 3
-    # - name: Tags
-    #   url: /tags/
-    #   weight: 3
-    # - name: RSS
-    #   url: /index.xml
-    #   weight: 5
