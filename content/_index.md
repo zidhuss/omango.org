@@ -10,8 +10,8 @@ All abilities are welcome at OmanGo from just interested to advanced. For more i
 
 ### Upcoming meetups
 
-- [08 January 2020 - Databases with Go](/meetups/2020/01)
-- 05 February 2020 - TBA
+- [01 December 2021 - Working with Docker](/meetups/2021/12)
+- 05 January 2022 - TBA
   <!-- Get notified about upcoming meetups and events by joining our [mailing list](/community) or following our [Twitter account](/community). -->
 
 ### What is Go?
