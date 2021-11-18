@@ -5,6 +5,11 @@ title: Omango
 theme: cupper-hugo-theme
 enableGitInfo: true
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 taxonomies:
   tag: tags
 
