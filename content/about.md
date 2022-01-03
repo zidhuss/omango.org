@@ -13,4 +13,4 @@ We are based in Muscat, Oman and meet at Rihal's offices on the first Wednesday 
 
 We aim to have talks or workshops every month, but if there are no talks there will be a social meet.
 
-OmanGo was started in November 2019 by [Hussein Al Abry](https://zidhuss.tech), [email him](mailto:hussein@rihal.om) if you have any questions or suggestions.
+OmanGo was started in November 2019 by [Hussein Al Abry](https://zidhuss.tech), [email him](mailto:hussein@zidhuss.tech) if you have any questions or suggestions.

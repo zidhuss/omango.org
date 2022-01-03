@@ -10,8 +10,8 @@ All abilities are welcome at OmanGo from just interested to advanced. For more i
 
 ### Upcoming meetups
 
-- [15 December 2021 - Managing projects with Github](/meetups/2021/12)
-- [5 January 2021 - Working with Docker](/meetups/2022/01)
+- [12th January 2022 - Game Development with Go](/meetups/2022/01)
+- 9th February 2022 - _To be confirmed_
   <!-- Get notified about upcoming meetups and events by joining our [mailing list](/community) or following our [Twitter account](/community). -->
 
 ### What is Go?
