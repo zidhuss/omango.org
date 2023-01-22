@@ -10,9 +10,9 @@ All abilities are welcome at OmanGo from just interested to advanced. For more i
 
 ### Upcoming meetups
 
-- [6th July 2022 - Social Meetup](/meetups/2022/07)
-<!-- - 18th May 2022 - _To be confirmed_ -->
-  <!-- Get notified about upcoming meetups and events by joining our [mailing list](/community) or following our [Twitter account](/community). -->
+- [25th January 2023 - Programming Puzzle Night](/meetups/2023/01)
+  <!-- - 18th May 2022 - _To be confirmed_ -->
+    <!-- Get notified about upcoming meetups and events by joining our [mailing list](/community) or following our [Twitter account](/community). -->
 
 ### What is Go?
 
