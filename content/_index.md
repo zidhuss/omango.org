@@ -21,3 +21,4 @@ If you're new [try the interactive browser based tour](https://tour.golang.org/#
 #### This site
 
 This site is built in Go using [Hugo](https://gohugo.io). If you see any errors, ommissions or improvements to be made, let me know or [submit a pull request](https://github.com/zidhuss/omango.org).
+<a rel="me" style="display: none;" href="https://omani.social/@omango">Mastodon</a>
