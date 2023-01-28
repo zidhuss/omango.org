@@ -16,4 +16,6 @@ We aim to have talks or workshops every month, but if there are no talks there w
 
 OmanGo was started in November 2019 by [Hussein Al Abry](https://zidhuss.tech).
 
+You can find us on <a rel="me" href="https://omani.social/@omango">Mastodon</a> and [Instagram](https://www.instagram.com/omango.om/)
+
 [Send an email](mailto:hussein@zidhuss.tech) if you have any questions or suggestions.

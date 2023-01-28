@@ -8,6 +8,8 @@ OmanGo is a group for people who know, use, or are just interested in starting t
 
 All abilities are welcome at OmanGo from just interested to advanced. For more information see [about](/about).
 
+You can find us on <a rel="me" href="https://omani.social/@omango">Mastodon</a> and [Instagram](https://www.instagram.com/omango.om/)
+
 ### Upcoming meetups
 
 - [25th January 2023 - Programming Puzzle Night](/meetups/2023/01)
@@ -21,4 +23,3 @@ If you're new [try the interactive browser based tour](https://tour.golang.org/#
 #### This site
 
 This site is built in Go using [Hugo](https://gohugo.io). If you see any errors, ommissions or improvements to be made, let me know or [submit a pull request](https://github.com/zidhuss/omango.org).
-<a rel="me" style="display: none;" href="https://omani.social/@omango">Mastodon</a>
