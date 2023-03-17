@@ -12,7 +12,7 @@ You can find us on <a rel="me" href="https://omani.social/@omango">Mastodon</a> 
 
 ### Upcoming meetups
 
-- [15th March 2023 - Using Lean Experiments](/meetups/2023/03)
+- [15th March 2023 - Social Meetup ~~Using Lean Experiments~~ ](/meetups/2023/03)
   <!-- - 18th May 2022 - _To be confirmed_ -->
     <!-- Get notified about upcoming meetups and events by joining our [mailing list](/community) or following our [Twitter account](/community). -->
 
