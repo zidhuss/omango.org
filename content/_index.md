@@ -12,8 +12,7 @@ You can find us on <a rel="me" href="https://omani.social/@omango">Mastodon</a> 
 
 ### Upcoming meetups
 
-- [15th March 2023 - Social Meetup ~~Using Lean Experiments~~ ](/meetups/2023/03)
-  <!-- - 18th May 2022 - _To be confirmed_ -->
+- [14th June 2023 - Project Showcase](/meetups/2023/06)
     <!-- Get notified about upcoming meetups and events by joining our [mailing list](/community) or following our [Twitter account](/community). -->
 
 ### What is Go?
@@ -22,4 +21,4 @@ If you're new [try the interactive browser based tour](https://tour.golang.org/#
 
 #### This site
 
-This site is built in Go using [Hugo](https://gohugo.io). If you see any errors, ommissions or improvements to be made, let me know or [submit a pull request](https://github.com/zidhuss/omango.org).
+This site is built in Go using [Hugo](https://gohugo.io). If you see any errors, omissions or improvements to be made, let me know or [submit a pull request](https://github.com/zidhuss/omango.org).
