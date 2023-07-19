@@ -1,4 +1,4 @@
-baseURL: https://omango.org
+baseUrl: "/"
 languageCode: en-gb
 defaultContentLanguage: en
 title: Omango
