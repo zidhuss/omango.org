@@ -12,7 +12,7 @@ You can find us on <a rel="me" href="https://omani.social/@omango">Mastodon</a> 
 
 ### Upcoming meetups
 
-- [14th June 2023 - Project Showcase](/meetups/2023/06)
+- [26th July 2023 - Building a Community](/meetups/2023/07)
     <!-- Get notified about upcoming meetups and events by joining our [mailing list](/community) or following our [Twitter account](/community). -->
 
 ### What is Go?
